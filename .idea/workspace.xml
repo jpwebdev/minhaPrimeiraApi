@@ -3,7 +3,7 @@
   <component name="ChangeListManager">
     <list default="true" id="ce09e8c0-9b15-42e6-8b12-7b90acaf4511" name="Default Changelist" comment="">
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/app/Http/Controllers/Api/ProductController.php" beforeDir="false" afterPath="$PROJECT_DIR$/app/Http/Controllers/Api/ProductController.php" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/database/seeds/DatabaseSeeder.php" beforeDir="false" afterPath="$PROJECT_DIR$/database/seeds/DatabaseSeeder.php" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/routes/api.php" beforeDir="false" afterPath="$PROJECT_DIR$/routes/api.php" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
@@ -160,7 +160,7 @@
       <workItem from="1593112113125" duration="4387000" />
       <workItem from="1593198012274" duration="2089000" />
       <workItem from="1593201130920" duration="7881000" />
-      <workItem from="1593363325143" duration="5488000" />
+      <workItem from="1593363325143" duration="15449000" />
     </task>
     <servers />
   </component>
@@ -172,6 +172,10 @@
       <screen x="0" y="0" width="1920" height="1040" />
     </state>
     <state x="117" y="178" width="645" height="690" key="#phpunit.xml/0.0.1920.1040@0.0.1920.1040" timestamp="1593199892780" />
+    <state x="226" y="338" key="NewPhpClassDialog" timestamp="1593369697985">
+      <screen x="0" y="0" width="1920" height="1040" />
+    </state>
+    <state x="226" y="338" key="NewPhpClassDialog/0.0.1920.1040@0.0.1920.1040" timestamp="1593369697985" />
     <state x="461" y="162" key="SettingsEditor" timestamp="1593203705571">
       <screen x="0" y="0" width="1920" height="1040" />
     </state>
