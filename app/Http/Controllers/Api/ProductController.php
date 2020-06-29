@@ -2,6 +2,7 @@
 
 namespace App\Http\Controllers\Api;
 
+use App\Http\Requests\ProductRequest;
 use App\Http\Resources\ProductCollection;
 use App\Http\Resources\ProductResource;
 use App\Product;
@@ -47,14 +48,14 @@ class ProductController extends Controller
         //return $products;
     }
 
-    public function save(Request $request)
+    public function save(ProductRequest $request)
     {
         $data = $request->all();
         $product = $this->product->create($data);
         return response()->json($product);
     }
 
-    public function update(Request $request)
+    public function update(ProductRequest $request)
     {
         $data = $request->all();
         $product = $this->product->find($data['id']);
